@@ -19,31 +19,27 @@ AuraType for Android replaces your default keyboard with a fully functional keyb
 
 ---
 
-## Core Features
+## What AuraType Does For You
 
-*   **Full Keyboard**
-    A complete, everyday keyboard you can use as your default — with the autotyper built right in.
-*   **Autotyping**
-    Select any saved record and AuraType types it into any field automatically.
-*   **Clean Output**
-    Clears the destination field before typing starts so your output is always exact with nothing left behind.
-*   **Records Management**
-    Create, edit, and organise your saved text records from the dashboard.
-*   **Execution Tracking**
-    Tracks how many times each record has been executed locally on your device.
+*   **Type Faster with Autotyping**
+    Save your most frequently used messages, templates, or code. Select any saved record and AuraType types it into any field automatically.
+*   **A Complete Everyday Keyboard**
+    You don't need to switch back and forth. AuraType is a full, everyday keyboard you can use as your default — with the autotyper built right in.
+*   **Clean Output Mode**
+    Say goodbye to messy formatting. AuraType clears the destination field before typing starts so your text is perfectly placed with nothing left behind.
+*   **Stay Organized**
+    Create, edit, and organize your saved text records right from the dashboard. You can even see how many times you've used a specific record on your device.
 
 ---
 
-## Reliability & Security
+## Privacy & Account
 
-*   **Unified License**
-    The same license key works on both Windows and Android — one subscription, both platforms.
-*   **Server-Verified Sessions**
-    Your subscription is checked live against the server every session to ensure valid access.
-*   **Secure Local Storage**
-    All records and credentials are stored in an encrypted local database on your device.
-*   **Razorpay Integration**
-    Checkout and purchases are processed directly through Razorpay. We do not store or handle payment card details.
+*   **One Subscription, All Your Devices**
+    The exact same license key works on both your Windows PC and your Android phone. Buy once, use everywhere.
+*   **Your Data Stays Yours**
+    All your saved records are stored directly on your device. We do not track what you type.
+*   **Secure Checkout**
+    Purchases are processed securely through Razorpay. We never see or store your payment card details.
 
 ---
 
