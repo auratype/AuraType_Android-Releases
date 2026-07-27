@@ -52,31 +52,4 @@ AuraType for Android replaces your default keyboard with a fully functional keyb
 Every device gets a one-time free trial automatically upon signup.
 
 ### 1. Installation
-1. Navigate to the **[Releases Page](https://github.com/auratype/AuraType_Android-Releases/releases)**.
-2. Download the latest APK: `AuraType_Android_v1.0.apk`.
-3. On your Android device, allow installation from unknown sources when prompted.
-4. Open the APK and tap **Install**.
-5. Go to **Settings → Language & Input → Manage Keyboards** and enable **AuraType**.
-6. Launch the app and sign in or start your free trial.
-
-### 2. Available Passes
-Once your trial completes, choose the plan that best fits your workflow:
-
-| Plan | Duration | Description |
-| :--- | :---: | :--- |
-| **Midnight Pass** | 24 Hours | Full access for 24 hours with no commitment required. |
-| **Monthly Pro** | 30 Days | Unlimited access for a full month. |
-| **Annual Elite** | 1 Year | Best value. A full year of uninterrupted access. |
-
----
-
-## Show Your Support
-
-If AuraType helps you automate your daily workflows, please consider giving this repository a star!
-
-1. Scroll to the top of this repository page.
-2. Click the ⭐️ **Star** button in the top-right corner.
-
----
-
-*© 2026 AuraType. All rights reserved.*
+1. Navigate to the **[Releases Page](https://github
