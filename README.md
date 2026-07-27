@@ -26,7 +26,9 @@ AuraType for Android replaces your default keyboard with a fully functional keyb
 *   **A Complete Everyday Keyboard**
     You don't need to switch back and forth. AuraType is a full, everyday keyboard you can use as your default — with the autotyper built right in.
 *   **Clean Output Mode**
-    Say goodbye to messy formatting. AuraType clears the destination field before typing starts so your text is perfectly placed with nothing left behind.
+    Say goodbye to messy formatting. AuraType clears the destination field both before typing starts and after it finishes, so your text is perfectly placed with nothing left behind.
+*   **Code Editor Mode**
+    Format-aware typing tailored specifically for executing code snippets directly into mobile coding apps.
 *   **Stay Organized**
     Create, edit, and organize your saved text records right from the dashboard. You can even see how many times you've used a specific record on your device.
 
